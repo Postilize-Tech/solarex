@@ -1,0 +1,13 @@
+[workspace]
+members = [
+  "auction/program",
+  "solarex/program",
+  "token-vault/program",
+  "token-metadata/program",
+  "auction/cli",
+  "solarex/test",
+  "token-vault/test",
+  "token-metadata/test",
+]
+exclude = [
+]
