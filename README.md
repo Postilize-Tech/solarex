@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://solarex.com">
-    <img alt="Solarex" src="https://solarex.com/meta.svg" width="250" />
-  </a>
-</p>
-
 Solarex is a protocol built on top of Solana that allows:
 
 - **Creating/Minting** non-fungible tokens;
@@ -12,18 +6,12 @@ Solarex is a protocol built on top of Solana that allows:
 
 Solarex is comprised of two core components: an on-chain program, and a self-hosted front-end web3 application.
 
-## In Depth Developer's Guide
-
-If you want to deep dive on the Architecture, you can do so here:
-
-https://www.notion.so/Solarex-Developer-Guide-afefbc19841744c28587ab948a08cfac
-
 ## Installing
 
 Clone the repo, and run `yarn start` to deploy.
 
 ```bash
-$ git clone https://github.com/solarex-foundation/solarex.git
+$ git clone 
 $ cd solarex
 $ cd js
 $ yarn install
