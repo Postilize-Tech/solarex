@@ -16,7 +16,6 @@ yarn-error.log*
 !js/packages/solarex/src/utils/globals.css
 target
 .env
-.vscode
 bin
 config.json
 node_modules
